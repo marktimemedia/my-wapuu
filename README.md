@@ -6,6 +6,7 @@ Feel free to grab and use! All my EPS files are Illustrator CC version.
 ## Preview
 ![Sleepy WordCamp Wapuu](png/wapuu-sleepy-wordcamp.png) 
 ![Struggle Wapuu](png/wapuu-struggle.png)
+![Brain Hurts Wapuu](png/wapuu-brainhurts.png)
 ![Cheesehead Wapuu](png/wapuu-cheesehead.png) 
 ![Dev Wapuu](png/wapuu-dev.png)
 ![Hipster Wapuu](png/wapuu-hipster.png)
