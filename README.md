@@ -10,6 +10,7 @@ Feel free to grab and use! All my EPS files are Illustrator CC version.
 ![Cheesehead Wapuu](png/wapuu-cheesehead.png) 
 ![Dev Wapuu](png/wapuu-dev.png)
 ![Hipster Wapuu](png/wapuu-hipster.png)
+![Cosplay Wapuu](png/wapuu-cosplay.png)
 ![WP Tavern Wapuu](png/wapuu-wptavern.png)
 ![Post Status Wapuu](png/wapuu-poststatus.png)
 ![Moto Wapuu](png/wapuu-moto.png)
