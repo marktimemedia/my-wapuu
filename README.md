@@ -11,6 +11,7 @@ Feel free to grab and use! All my EPS files are Illustrator CC version.
 ![Dev Wapuu](png/wapuu-dev.png)
 ![Hipster Wapuu](png/wapuu-hipster.png)
 ![Cosplay Wapuu](png/wapuu-cosplay.png)
+![NYC Wapuu](png/wapuu-nyc.png)
 ![WP Tavern Wapuu](png/wapuu-wptavern.png)
 ![Post Status Wapuu](png/wapuu-poststatus.png)
 ![Moto Wapuu](png/wapuu-moto.png)
