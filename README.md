@@ -16,5 +16,6 @@ Feel free to grab and use! All my EPS files are Illustrator CC version.
 ![WP Tavern Wapuu](png/wapuu-wptavern.png)
 ![Post Status Wapuu](png/wapuu-poststatus.png)
 ![Moto Wapuu](png/wapuu-moto.png)
+![Pixar Wapuu](png/wapuu-pixar.png)
 
 
