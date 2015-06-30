@@ -8,6 +8,7 @@ Feel free to grab and use! All my EPS files are Illustrator CC version.
 ![Struggle Wapuu](png/wapuu-struggle.png)
 ![Brain Hurts Wapuu](png/wapuu-brainhurts.png)
 ![Cheesehead Wapuu](png/wapuu-cheesehead.png) 
+![Spy Wapuu](png/wapuu-spy.png) 
 ![Dev Wapuu](png/wapuu-dev.png)
 ![Hipster Wapuu](png/wapuu-hipster.png)
 ![Minion Wapuu](png/wapuu-minion.png)
