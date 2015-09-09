@@ -16,7 +16,12 @@ Feel free to grab and use! All my EPS files are Illustrator CC version.
 ![NYC Wapuu](png/wapuu-nyc.png)
 ![WP Tavern Wapuu](png/wapuu-wptavern.png)
 ![Post Status Wapuu](png/wapuu-poststatus.png)
+![Torque Wapuu](png/wapuu-torque.png)
 ![Moto Wapuu](png/wapuu-moto.png)
 ![Pixar Wapuu](png/wapuu-pixar.png)
+![HeroPress Wapuu](png/wapuu-heropress.png)
+![Tron Wapuu](png/wapuu-tron.png)
+![Piza Wapuu](png/wapuu-pizza.png)
+![Travel Wapuu](png/wapuu-travel.png)
 
 
